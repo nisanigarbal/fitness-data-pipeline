@@ -1,21 +1,20 @@
-# 🏋️‍♀️ Fitness Data Pipeline
+#  Fitness Data Pipeline
 
-## 📌 Project Overview
+## Project Overview
 This project is a data pipeline that generates, processes, and stores fitness-related data such as users, workouts, meals, and water intake.
 
 The pipeline simulates real-world data and loads it into a PostgreSQL database for analysis and reporting.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Build a structured data pipeline
 - Practice data generation using Python
 - Store data in PostgreSQL
 - Prepare data for analytics and visualization (Power BI)
 
 ---
-
-## 🛠️ Technologies Used
+## Technologies Used
 - Python (data generation & scripts)
 - PostgreSQL (database)
 - SQL (data modeling & queries)
@@ -23,17 +22,17 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 📂 Project Structure
-# 🏋️‍♀️ Fitness Data Pipeline
+## Project Structure
+#  Fitness Data Pipeline
 
-## 📌 Project Overview
+## Project Overview
 This project is a data pipeline that generates, processes, and stores fitness-related data such as users, workouts, meals, and water intake.
 
 The pipeline simulates real-world data and loads it into a PostgreSQL database for analysis and reporting.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Build a structured data pipeline
 - Practice data generation using Python
 - Store data in PostgreSQL
@@ -41,7 +40,7 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python (data generation & scripts)
 - PostgreSQL (database)
 - SQL (data modeling & queries)
@@ -49,16 +48,16 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 📂 Project Structure# 🏋️‍♀️ Fitness Data Pipeline
+## Project Structure#  Fitness Data Pipeline
 
-## 📌 Project Overview
+## Project Overview
 This project is a data pipeline that generates, processes, and stores fitness-related data such as users, workouts, meals, and water intake.
 
 The pipeline simulates real-world data and loads it into a PostgreSQL database for analysis and reporting.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Build a structured data pipeline
 - Practice data generation using Python
 - Store data in PostgreSQL
@@ -66,7 +65,7 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python (data generation & scripts)
 - PostgreSQL (database)
 - SQL (data modeling & queries)
@@ -74,16 +73,16 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 📂 Project Structure# 🏋️‍♀️ Fitness Data Pipeline
+## Project Structure#  Fitness Data Pipeline
 
-## 📌 Project Overview
+## Project Overview
 This project is a data pipeline that generates, processes, and stores fitness-related data such as users, workouts, meals, and water intake.
 
 The pipeline simulates real-world data and loads it into a PostgreSQL database for analysis and reporting.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Build a structured data pipeline
 - Practice data generation using Python
 - Store data in PostgreSQL
@@ -91,7 +90,7 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python (data generation & scripts)
 - PostgreSQL (database)
 - SQL (data modeling & queries)
@@ -99,16 +98,16 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 📂 Project Structure# 🏋️‍♀️ Fitness Data Pipeline
+## Project Structure#  Fitness Data Pipeline
 
-## 📌 Project Overview
+## Project Overview
 This project is a data pipeline that generates, processes, and stores fitness-related data such as users, workouts, meals, and water intake.
 
 The pipeline simulates real-world data and loads it into a PostgreSQL database for analysis and reporting.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Build a structured data pipeline
 - Practice data generation using Python
 - Store data in PostgreSQL
@@ -116,7 +115,7 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python (data generation & scripts)
 - PostgreSQL (database)
 - SQL (data modeling & queries)
@@ -127,7 +126,7 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 1. Generate dummy fitness data using Python scripts
 2. Store data as CSV files
 3. Load data into PostgreSQL database
@@ -135,7 +134,7 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - API integration
 - Real-time data processing
 - Dashboard with Power BI
@@ -143,5 +142,5 @@ The pipeline simulates real-world data and loads it into a PostgreSQL database f
 
 ---
 
-## 👩‍💻 Author
+## Author
 Nisa Bal
